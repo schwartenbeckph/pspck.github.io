@@ -18,7 +18,7 @@ value, and reinforcement learning. Frequent author of technical blogs such as on
 Agentic Retrieval Augmented Generation (RAG).
 
 <p>
-  <a href="https://github.com/schwartzenbeckph" target="_blank">
+  <a href="https://github.com/schwartenbeckph" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="margin-right:10px;">
   </a>
   <a href="https://scholar.google.com/citations?user=aAIcvRAAAAAJ&hl=en" target="_blank">
