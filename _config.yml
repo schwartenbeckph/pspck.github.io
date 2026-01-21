@@ -14,11 +14,11 @@ header_pages:
 # Social links (only GitHub, Scholar, LinkedIn)
 social_links:
   - platform: github
-    user_url: https://github.com/YOUR_GITHUB_USERNAME
+    user_url: https://github.com/schwartenbeckph
   - platform: google_scholar
-    user_url: https://scholar.google.com/citations?user=YOUR_ID
+    user_url: https://scholar.google.com/citations?user=aAIcvRAAAAAJ&hl=en
   - platform: linkedin
-    user_url: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+    user_url: https://www.linkedin.com/in/philipp-schwartenbeck-173868196/
 
 # Theme
 theme: minima
