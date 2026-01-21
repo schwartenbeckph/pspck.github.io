@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /
+permalink: /about
 ---
 
 ![Philipp's Photo](/data/profile.jpeg)
