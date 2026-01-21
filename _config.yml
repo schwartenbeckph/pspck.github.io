@@ -4,7 +4,6 @@ description: >-
   Principal AI Engineer
 baseurl: "" # leave empty if using custom domain
 url: "https://pspck.com" # your custom domain
-author: Philipp Schwartenbeck
 
 # Navigation links
 header_pages:
