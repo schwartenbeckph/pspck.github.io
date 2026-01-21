@@ -17,8 +17,16 @@ London, University of Oxford and Google Deepmind.
 value, and reinforcement learning. Frequent author of technical blogs such as on graph-based reasoning in agentic AI or
 Agentic Retrieval Augmented Generation (RAG).
 
-- [GitHub](https://github.com/schwartenbeckph)
-- [Google Scholar](https://scholar.google.com/citations?user=aAIcvRAAAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/philipp-schwartenbeck-173868196/)
+<p>
+  <a href="https://github.com/schwartzenbeckph" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="margin-right:10px;">
+  </a>
+  <a href="https://scholar.google.com/citations?user=aAIcvRAAAAAJ&hl=en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.svg" alt="Google Scholar" width="30" style="margin-right:10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/philipp-schwartenbeck-173868196/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;">
+  </a>
+</p>
 
 <!-- You can expand this section anytime -->
