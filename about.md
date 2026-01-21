@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-![Philipp's Photo](/assets/images/profile.jpg)
+![Philipp's Photo](/data/profile.jpeg)
 
 Welcome to my personal site. I am a cognitive neuroscientist interested in...
 
