@@ -18,15 +18,16 @@ value, and reinforcement learning. Frequent author of technical blogs such as on
 Agentic Retrieval Augmented Generation (RAG).
 
 <p>
-  <a href="https://github.com/schwartenbeckph" target="_blank">
+  <a href="https://github.com/schwartzenbeckph" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="margin-right:10px;">
   </a>
-  <a href="https://scholar.google.com/citations?user=aAIcvRAAAAAJ&hl=en" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.svg" alt="Google Scholar" width="30" style="margin-right:10px;">
+  <a href="https://scholar.google.com/citations?user=aAIcvRAAAAAJ&hl=en" target="_blank" style="font-size: 20px; margin-right: 20px; text-decoration: none;">
+    Google Scholar
   </a>
   <a href="https://www.linkedin.com/in/philipp-schwartenbeck-173868196/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;">
   </a>
 </p>
+
 
 <!-- You can expand this section anytime -->
