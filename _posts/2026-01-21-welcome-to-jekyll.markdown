@@ -15,7 +15,7 @@ As an AI Engineer, I worked as a project lead and developer building Gen AI solu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="margin-right:10px;">
   </a>
   <a href="https://scholar.google.com/citations?user=aAIcvRAAAAAJ&hl=en" target="_blank">
-  <img src="/data/gscholar.png" alt="Google Scholar" width="30" style="margin-right:10px;">
+  <img src="/data/gscholar.jpg" alt="Google Scholar" width="30" style="margin-right:10px;">
 </a>
   <a href="https://www.linkedin.com/in/philipp-schwartenbeck-173868196/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;">
