@@ -21,6 +21,3 @@ As an AI Engineer, I worked as a project lead and developer building Gen AI solu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;">
   </a>
 </p>
-
-
-<!-- You can expand this section anytime -->
