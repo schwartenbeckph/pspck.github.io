@@ -9,6 +9,7 @@ url: "https://pspck.com" # your custom domain
 header_pages:
   - about.md
   - posts.md
+  - science.md
 
 # Theme
 theme: minima
