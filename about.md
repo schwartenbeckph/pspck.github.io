@@ -35,6 +35,7 @@ permalink: /about/
 
 
 **2012 – 2013**: **University College London** | *MRes, Cognitive Neuroscience (Dist.)* | London, UK
-
+* **Focus:** Bayesian models of decison-making and neural function
 
 **2008 – 2017**: **University of Salzburg** | *BSc, Mathematics & BSc, Psychology (Dist.)* | Salzburg, Austria
+* **Focus:** Bayesian parameter estimation, decision-theory
