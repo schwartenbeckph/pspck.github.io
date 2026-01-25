@@ -21,5 +21,3 @@ plugins:
 
 # Optional: show excerpts on post listings
 show_excerpts: true
-
-.site-footer { display: none; }
