@@ -8,7 +8,7 @@ url: "https://pspck.com" # your custom domain
 # Navigation links
 header_pages:
   - about.md
-  - posts.md
+  # - posts.md
   - science.md
 
 # Theme
