@@ -1,5 +1,11 @@
 ---
 ---
+// Define the new background color before importing minima
+$background-color: #fdf5e6; // A warm, creamy white (very common for academic sites).
+// $background-color: #faf9f6; // A very subtle, cool-toned off-white.
+// $background-color: #fffaf0; // A bright but soft white.
+// $background-color: #f4f4f4; // A light greyish-white that reduces screen glare.
+
 @import "minima";
 
 .site-footer {
