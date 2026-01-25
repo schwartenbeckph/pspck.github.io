@@ -14,27 +14,27 @@ permalink: /about/
 
 ## Experience
 
-Jan 2023 – Jan 2026: **Alexander Thamm GmbH** | *Principal AI Engineer & Consultant* | Munich, Germany
+**Jan 2023 – Jan 2026**: **Alexander Thamm GmbH** | *Principal AI Engineer & Consultant* | Munich, Germany
 * **Role:** Project lead & Gen/Agentic AI developer developing production-grade ML solutions
 * **Focus:** Full-stack Agentic-AI applications, RAG chatbots for knowledge management, generative systems for automated reporting, forecasting and time-series analysis
 
 
-Apr 2021 – Dec 2022: **University of Tübingen** | *Postdoctoral Researcher, AI Center* | Tübingen, Germany
+**Apr 2021 – Dec 2022**: **University of Tübingen** | *Postdoctoral Researcher, AI Center* | Tübingen, Germany
 * **Focus:** Generalisable representation learning in artificial and biological intelligence (reinforcement learning, MCTS, graph neural networks)
 * **Supervisor:** Peter Dayan, FRS.
 
 
-Apr 2017 – Mar 2020: **University of Oxford** | *Postdoctoral Researcher* | Oxford, UK
+**Apr 2017 – Mar 2020**: **University of Oxford** | *Postdoctoral Researcher* | Oxford, UK
 * **Focus:** Compositional inference in reinforcement learning and computational vision, online and offline replay underwriting neural computations
 * **Supervisor:** Timothy Behrens, FRS.
 
 
-2013 – 2017 **University College London & University of Salzburg** | *PhD, Computational Neuroscience (Dist)* | London, UK
+**2013 – 2017**: **University College London & University of Salzburg** | *PhD, Computational Neuroscience (Dist)* | London, UK
 * **Focus:** Bayesian Decision Theory, Bayesian models of neural function, reinforcement learning
 * **Supervisors:** Karl Friston, FRS, Ray Dolan, FRS., Martin Kronbichler, Prof.
 
 
-2012 – 2013: **University College London** | *MRes, Cognitive Neuroscience (Dist.)* | London, UK
+**2012 – 2013**: **University College London** | *MRes, Cognitive Neuroscience (Dist.)* | London, UK
 
 
-2008 – 2017: **University of Salzburg** | *BSc, Mathematics & BSc, Psychology (Dist.)* | Salzburg, Austria
+**2008 – 2017**: **University of Salzburg** | *BSc, Mathematics & BSc, Psychology (Dist.)* | Salzburg, Austria
