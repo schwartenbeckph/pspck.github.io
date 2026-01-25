@@ -1,11 +1,13 @@
 <header class="site-header" role="banner">
   <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-    {{ site.title | escape }}
-    <span style="color: #828282; display: block; font-size: 16px; font-weight: normal; margin-top: -10px; text-decoration: none !important; display: inline-block; width: 100%;">
+    <div class="site-branding">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="line-height: 1.1; margin-bottom: 0;">
+        {{ site.title | escape }}
+      </a>
+      <div style="color: #828282; font-size: 16px; font-weight: normal; margin-top: -8px;">
         Principal AI Engineer
-    </span>
-    </a>
+      </div>
+    </div>
 
     {%- if site.header_pages -%}
       <nav class="site-nav">
