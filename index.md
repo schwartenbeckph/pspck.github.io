@@ -2,13 +2,13 @@
 layout: home
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 20px;">
   
-  <div style="flex: 0 0 400px;">
+  <div style="flex: 30%;">
     <img src="/data/profile.jpeg" alt="Philipp's Photo" style="width: 100%; border-radius: 8px;">
   </div>
 
-  <div style="flex: 1;">
+  <div style="flex: 70%;">
     <p>I have a background in academic research and AI engineering and aim to translate cutting-edge AI research into useful applications.</p>
     <p>In my academic research, I worked at the intersection of AI and biological science, mostly in London and Oxford (UK), but also in Germany. I investigated the nature of flexible, generalisable, and compositional intelligence in algorithms and biological data, focusing on reinforcement learning, Bayesian Inference and pattern analysis methods.</p>
     <p>As an AI Engineer, I worked as a project lead and developer building Gen AI solutions in production. I also presented this work frequently in talks or blogs with a focus on Agentic AI (e.g. graph-based reasoning in agentic AI or Agentic Retrieval Augmented Generation (RAG)) and reinforcement learning.</p>
