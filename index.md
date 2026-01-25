@@ -4,7 +4,7 @@ layout: home
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   
-  <div style="flex: 0 0 300px;">
+  <div style="flex: 0 0 400px;">
     <img src="/data/profile.jpeg" alt="Philipp's Photo" style="width: 100%; border-radius: 8px;">
   </div>
 
