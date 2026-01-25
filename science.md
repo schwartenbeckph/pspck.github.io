@@ -9,11 +9,9 @@ permalink: /science/
     <img src="/data/SilhouetteAlgebra.png" alt="Silhouette Algebra Research" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 60%; text-align: justify;">
-    <h3>Research Project One</h3>
+    <h3>Silhoute Algebare</h3>
     <p>
-      Template text for your first research highlight. You can describe the background of this project, 
-      the methodology used (e.g., reinforcement learning or Bayesian inference), and the key findings. 
-      This layout provides a strong visual anchor on the left to draw the reader into the technical description.
+      During compositional inference, we can use individual neural representations of certain building blocks in specific relations to predict neural representations of novel composites. This suggests a factorial neural code that underlies generalisable and compositional reasoning when faced with novel tasks, similar to a scene algebra.
     </p>
   </div>
 </div>
@@ -25,11 +23,9 @@ permalink: /science/
     <img src="/data/Replay.png" alt="Replay Analysis" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 60%; text-align: justify;">
-    <h3>Research Project Two</h3>
+    <h3>Online compositional replay</h3>
     <p>
-      Template text for your second research highlight. This row uses a reversed flex direction to 
-      position the image on the right. Discussing your work on biological time-series data or 
-      compositional intelligence would fit well here to provide variety in your presentation.
+      Online neural replay facilitates compositional inference by using learnt statistical structure to guide uncertainty resolution. When faced with a novel problem, neural replay reflects a hypothesis-testing mechanism that gradually resolves uncertainty from more to less predictable building blocks.
     </p>
   </div>
 </div>
@@ -41,11 +37,9 @@ permalink: /science/
     <img src="/data/FreeEnergy.png" alt="Free Energy Principle" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 60%; text-align: justify;">
-    <h3>Research Project Three</h3>
+    <h3>Information-theoretic planning</h3>
     <p>
-      Template text for your third research highlight. This returns to the original orientation. 
-      You might focus on your work regarding the Free Energy Principle or pattern analysis methods 
-      developed during your time in London or Oxford.
+      When casting decision making as surprise minimisation in Markov Decision Processes, we can derive different biases for maximising reward, minimising uncertainty about hidden states and minimising uncertainty about model parameters, which all guide planning behaviour.
     </p>
   </div>
 </div>
