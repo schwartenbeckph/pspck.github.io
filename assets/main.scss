@@ -1,0 +1,13 @@
+---
+# This front matter is required for Jekyll to process the SCSS
+---
+@import "minima";
+
+// Force-hide the footer section
+.site-footer {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
