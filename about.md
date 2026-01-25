@@ -15,7 +15,7 @@ permalink: /about/
 ## Experience
 
 **Jan 2023 – Jan 2026**: **Alexander Thamm GmbH** | *Principal AI Engineer & Consultant* | Munich, Germany
-* **Role:** Project lead & Gen/Agentic AI developer developing production-grade ML solutions
+* **Role:** Project lead & Gen/Agentic AI developer building production-grade ML solutions
 * **Focus:** Full-stack Agentic-AI applications, RAG chatbots for knowledge management, generative systems for automated reporting, forecasting and time-series analysis
 
 
