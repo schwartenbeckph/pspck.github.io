@@ -26,6 +26,9 @@ permalink: /
       <a href="https://www.linkedin.com/in/philipp-schwartenbeck-173868196/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;">
       </a>
+      <a href="mailto:pschwartenbeck@gmail.com">
+        <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Email" width="30" style="filter: invert(31%) sepia(97%) saturate(1514%) hue-rotate(190deg) brightness(91%) contrast(101%);">
+      </a>
     </div>
   </div>
 </div>
