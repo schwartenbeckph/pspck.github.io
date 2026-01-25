@@ -1,9 +1,5 @@
 ---
 layout: home
----
-
----
-layout: home
 permalink: /
 ---
 
