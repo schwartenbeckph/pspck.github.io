@@ -14,26 +14,22 @@ permalink: /about/
 
 ## Experience
 
-**Alexander Thamm GmbH** | *Principal AI Engineer & Consultant* | Munich, Germany (Jan 2023 – Present)
-* **Role:** Lead & Agentic AI developer driving fundamental research and production-grade ML solutions.
-* **Focus:** Developing full-stack Agentic-AI applications, RAG chatbots for knowledge management, and generative systems for automated manufacturing reporting.
-* **Key Highlights:** First place at the CARIAD Gen AI Hackathon (Sept 2024); lead for the internal Agentic AI Methods Team.
+- Jan 2023 – Jan 2026: **Alexander Thamm GmbH** | *Principal AI Engineer & Consultant* | Munich, Germany
+* **Role:** Project lead & Gen/Agentic AI developer developing production-grade ML solutions
+* **Focus:** Full-stack Agentic-AI applications, RAG chatbots for knowledge management, generative systems for automated reporting, forecasting and time-series analysis
 
-**University of Tübingen** | *Postdoctoral Researcher, AI Center* | Tübingen, Germany (Apr 2021 – Dec 2022)
-* **Focus:** Researching generalisable representation learning in intelligent systems and probabilistic models (MCTS, graph neural networks).
-* **Tasks:** Implementation of PyTorch MCTS algorithms and conducting seminars on Reinforcement Learning.
+- Apr 2021 – Dec 2022: **University of Tübingen** | *Postdoctoral Researcher, AI Center* | Tübingen, Germany
+* **Focus:** Generalisable representation learning in artificial and biological intelligence (reinforcement learning, MCTS, graph neural networks)
 * **Supervisor:** Peter Dayan, FRS.
 
-**University of Oxford** | *Postdoctoral Researcher* | Oxford, UK (Apr 2017 – Mar 2020)
-* **Focus:** Compositional inference in reinforcement learning and computational vision.
-* **Tasks:** Statistical inference of complex biological time-series data and collaboration with Google DeepMind.
+- Apr 2017 – Mar 2020: **University of Oxford** | *Postdoctoral Researcher* | Oxford, UK
+* **Focus:** Compositional inference in reinforcement learning and computational vision, online and offline replay underwriting neural computations
 * **Supervisor:** Timothy Behrens, FRS.
 
-**University College London & University of Salzburg** | *PhD, Computational Neuroscience* | (2013 – 2017)
-* **Distinction:** Supervised by Karl Friston, FRS, and Ray Dolan, FRS.
+- 2013 – 2017 **University College London & University of Salzburg** | *PhD, Computational Neuroscience (Dist)* | London, UK
+* **Focus:** Bayesian Decision Theory, Bayesian models of neural function, reinforcement learning
+* **Supervisors:** Karl Friston, FRS, Ray Dolan, FRS., Martin Kronbichler, Prof.
 
-**University College London** | *MRes, Cognitive Neuroscience* | (2012 – 2013)
-* **Distinction:** Thesis on Bayesian models of brain function.
+- 2012 – 2013: **University College London** | *MRes, Cognitive Neuroscience (Dist.)* | London, UK
 
-**University of Salzburg** | *BSc, Mathematics & BSc, Psychology (Distinction)* | (2008 – 2017)
-* **Focus:** Bayesian parameter estimation and cognitive neuroscience of decision-making.
+- 2008 – 2017: **University of Salzburg** | *BSc, Mathematics & BSc, Psychology (Dist.)* | Salzburg, Austria
