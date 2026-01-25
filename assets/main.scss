@@ -4,6 +4,9 @@
 $background-color: #fdf5e6; // A warm, creamy white (very common for academic sites).
 // $background-color: #f4f4f4; // A light greyish-white that reduces screen glare.
 
+$content-width: 1000px;     // Increases the general width (default is ~800px) 
+$on-palm: 600px;            // Adjusts responsiveness for mobile [cite: 1611]
+
 @import "minima";
 
 .site-footer {
