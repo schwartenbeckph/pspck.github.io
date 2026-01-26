@@ -33,31 +33,3 @@
     {%- endif -%}
   </div>
 </header>
-
-<div id="lightbox" class="enlarge-overlay" onclick="closeLightbox()">
-  <span style="position: absolute; top: 20px; right: 30px; color: white; font-size: 40px; font-weight: bold; cursor: pointer;">&times;</span>
-  <img id="lightbox-img" src="" onclick="event.stopPropagation()">
-</div>
-
-<style>
-  /* This class will be added/removed by the script */
-  .enlarge-overlay.active {
-    display: flex !important;
-  }
-</style>
-
-<script>
-  function closeLightbox() {
-    document.getElementById('lightbox').classList.remove('active');
-  }
-
-  document.querySelectorAll('.enlarge').forEach(item => {
-    item.addEventListener('click', event => {
-      event.preventDefault();
-      const lightbox = document.getElementById('lightbox');
-      const lbImg = document.getElementById('lightbox-img');
-      lbImg.src = item.getAttribute('href');
-      lightbox.classList.add('active');
-    });
-  });
-</script>
