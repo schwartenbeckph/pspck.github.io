@@ -9,7 +9,7 @@ permalink: /science/
     <img src="/data/SilhouetteAlgebra.png" alt="Silhouette Algebra Research" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 60%; text-align: justify;">
-    <h3>Silhoute Algebare</h3>
+    <h3>Silhoute Algebra</h3>
     <p>
       During compositional inference, we can use individual neural representations of certain building blocks in specific relations to predict neural representations of novel composites. This suggests a factorial neural code that underlies generalisable and compositional reasoning when faced with novel tasks, similar to a scene algebra.
     </p>
