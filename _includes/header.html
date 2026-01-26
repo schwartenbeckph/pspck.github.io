@@ -33,3 +33,19 @@
     {%- endif -%}
   </div>
 </header>
+
+<div id="lightbox" class="enlarge-overlay" onclick="this.style.display='none'">
+  <img id="lightbox-img" src="">
+</div>
+
+<script>
+  document.querySelectorAll('.enlarge').forEach(item => {
+    item.addEventListener('click', event => {
+      event.preventDefault();
+      const lightbox = document.getElementById('lightbox');
+      const lbImg = document.getElementById('lightbox-img');
+      lbImg.src = item.href;
+      lightbox.style.display = 'flex';
+    });
+  });
+</script>

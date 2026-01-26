@@ -32,7 +32,9 @@ permalink: /science/
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 60px;">
   <div style="flex: 40%;">
-    <img src="/data/SilhouetteAlgebra.png" alt="Silhouette Algebra Research" style="width: 100%; border-radius: 8px;">
+    <a href="/data/SilhouetteAlgebra.png" class="enlarge">
+        <img src="/data/SilhouetteAlgebra.png" alt="Silhouette Algebra Research" style="width: 100%; border-radius: 8px; cursor: zoom-in;">
+    </a>
   </div>
   <div style="flex: 60%; text-align: justify;">
     <h3>Silhouette Algebra</h3>
