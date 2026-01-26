@@ -15,7 +15,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Online compositional replay</h3>
     <p>
-      Online neural replay facilitates compositional inference by using learnt statistical structure to guide uncertainty resolution. When faced with a novel problem, neural replay reflects a hypothesis-testing mechanism that gradually resolves uncertainty from more to less predictable building blocks (<a href="https://www.cell.com/cell/fulltext/S0092-8674(23)01025-5" target="_blank">Schwartenbeck et. al., Cell 2023</a>).
+      Online neural replay facilitates compositional inference by using learnt statistical structure to guide uncertainty resolution. When faced with a novel problem, neural replay reflects a hypothesis-testing mechanism that gradually resolves uncertainty from more to less predictable building blocks (<a href="https://www.cell.com/cell/fulltext/S0092-8674(23)01025-5" target="_blank">Schwartenbeck et. al., Cell 2023</a>). Similar mechanisms might be at play during language generation (<a href="https://linkinghub.elsevier.com/retrieve/pii/S0896-6273(22)01125-4" target="_blank">Kurth-Nelson, ..., Schwartenbeck, Neuron 2023</a>).
     </p>
   </div>
 </div>
@@ -29,7 +29,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Adaptive MCTS</h3>
     <p>
-      Applying ideas to make MCTS search adaptive via trainable neural networks, we find that a learnable policy network can pick up on this statistical structure to improve performance of compositional inference (work led by Turan Orujlu)
+      Applying ideas to make MCTS search adaptive via trainable neural networks, we find that a learnable policy network can pick up on this statistical structure to improve performance of compositional inference (work led by Turan Orujlu, (<a href="https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3385488_1" target="_blank">Schwartenbeck et. al., RLDM 2022</a>))
     </p>
   </div>
 </div>
@@ -45,7 +45,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Silhouette Algebra</h3>
     <p>
-      During compositional inference, we can use individual neural representations of certain building blocks in specific relations to predict neural representations of novel composites. This suggests a factorial neural code that underlies generalisable and compositional reasoning when faced with novel tasks, similar to a scene algebra.
+      During compositional inference, we can use individual neural representations of certain building blocks in specific relations to predict neural representations of novel composites (<a href="https://www.cell.com/cell/fulltext/S0092-8674(23)01025-5" target="_blank">Schwartenbeck et. al., Cell 2023</a>). This suggests a factorial neural code that underlies generalisable and compositional reasoning when faced with novel tasks, similar to a scene algebra (<a href="https://www.science.org/doi/10.1126/science.aar6170" target="_blank">Eslami et. al., Science 2018</a>).
     </p>
   </div>
 </div>
@@ -61,7 +61,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Information-theoretic planning</h3>
     <p>
-      When casting decision making as surprise minimisation in Markov Decision Processes, we can derive different biases for maximising reward, minimising uncertainty about hidden states and minimising uncertainty about model parameters, which all guide planning behaviour.
+      When casting decision making as surprise minimisation in Markov Decision Processes, we can derive different biases for maximising reward, minimising uncertainty about hidden states and minimising uncertainty about model parameters, which all guide planning behaviour (<a href="https://elifesciences.org/articles/41703" target="_blank">Schwartenbeck et. al., eLife 2023</a>).
     </p>
   </div>
 </div>
@@ -75,7 +75,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Neural basis of Belief Updating</h3>
     <p>
-      When performing inference in Markov Decision Processes, there is an important distinction between surprising but meaningless events ("information-theoretic surprise") and unexpected events that allows agents to shift their beliefs about hidden states ("Bayesian surprise"). We find that there is a clear neural distinction between those two surprise signals, where (unsigned) Bayesian but not information-theoretic surprise is reflected in dopaminergic activity (commonly associated with signalling signed reward prediction errors).
+      When performing inference in Markov Decision Processes, there is an important distinction between surprising but meaningless events ("information-theoretic surprise") and unexpected events that allows agents to shift their beliefs about hidden states ("Bayesian surprise"). We find that there is a clear neural distinction between those two surprise signals, where (unsigned) Bayesian but not information-theoretic surprise is reflected in dopaminergic activity (commonly associated with signalling signed reward prediction errors) (<a href="https://www.sciencedirect.com/science/article/pii/S1053811915009842?via%3Dihub" target="_blank">Schwartenbeck et. al., NeuroImage 2023</a>).
     </p>
   </div>
 </div>
