@@ -15,7 +15,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Online compositional replay</h3>
     <p>
-      Online neural replay facilitates compositional inference by using learnt statistical structure to guide uncertainty resolution. When faced with a novel problem, neural replay reflects a hypothesis-testing mechanism that gradually resolves uncertainty from more to less predictable building blocks.
+      Online neural replay facilitates compositional inference by using learnt statistical structure to guide uncertainty resolution. When faced with a novel problem, neural replay reflects a hypothesis-testing mechanism that gradually resolves uncertainty from more to less predictable building blocks (<a href="https://www.cell.com/cell/fulltext/S0092-8674(23)01025-5" target="_blank">Schwartenbeck et. al., Cell 2023</a>).
     </p>
   </div>
 </div>
