@@ -61,7 +61,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Information-theoretic planning</h3>
     <p>
-      When casting decision making as surprise minimisation in Markov Decision Processes, we can derive different biases for maximising reward, minimising uncertainty about hidden states and minimising uncertainty about model parameters, which all guide planning behaviour (<a href="https://elifesciences.org/articles/41703" target="_blank">Schwartenbeck et. al., eLife 2023</a>).
+      When casting decision making as surprise minimisation in Markov Decision Processes, we can derive different biases for maximising reward, minimising uncertainty about hidden states and minimising uncertainty about model parameters, which all guide planning behaviour (<a href="https://elifesciences.org/articles/41703" target="_blank">Schwartenbeck et. al., eLife 2019</a>).
     </p>
   </div>
 </div>
@@ -75,7 +75,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Neural basis of Belief Updating</h3>
     <p>
-      When performing inference in Markov Decision Processes, there is an important distinction between surprising but meaningless events ("information-theoretic surprise") and unexpected events that allows agents to shift their beliefs about hidden states ("Bayesian surprise"). We find that there is a clear neural distinction between those two surprise signals, where (unsigned) Bayesian but not information-theoretic surprise is reflected in dopaminergic activity (commonly associated with signalling signed reward prediction errors) (<a href="https://www.sciencedirect.com/science/article/pii/S1053811915009842?via%3Dihub" target="_blank">Schwartenbeck et. al., NeuroImage 2023</a>).
+      When performing inference in Markov Decision Processes, there is an important distinction between surprising but meaningless events ("information-theoretic surprise") and unexpected events that allows agents to shift their beliefs about hidden states ("Bayesian surprise"). We find that there is a clear neural distinction between those two surprise signals, where (unsigned) Bayesian but not information-theoretic surprise is reflected in dopaminergic activity (commonly associated with signalling signed reward prediction errors) (<a href="https://www.sciencedirect.com/science/article/pii/S1053811915009842?via%3Dihub" target="_blank">Schwartenbeck et. al., NeuroImage 2016</a>).
     </p>
   </div>
 </div>
