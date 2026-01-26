@@ -34,9 +34,8 @@
   </div>
 </header>
 
-<div id="lightbox" class="enlarge-overlay" onclick="this.style.display='none'">
+<div id="lightbox" class="enlarge-overlay" onclick="this.style.setProperty('display', 'none', 'important')">
   <span style="position: absolute; top: 20px; right: 30px; color: white; font-size: 40px; font-weight: bold; cursor: pointer;">&times;</span>
-  
   <img id="lightbox-img" src="" style="max-width: 90%; max-height: 90%; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
 </div>
 
@@ -47,7 +46,8 @@
       const lightbox = document.getElementById('lightbox');
       const lbImg = document.getElementById('lightbox-img');
       lbImg.src = item.href;
-      lightbox.style.display = 'flex';
+      // Force flex display
+      lightbox.style.setProperty('display', 'flex', 'important');
     });
   });
 </script>
