@@ -1,11 +1,8 @@
 ---
 ---
-// Define the new background color before importing minima
-$background-color: #fdf5e6; // A warm, creamy white (very common for academic sites).
-// $background-color: #f4f4f4; // A light greyish-white that reduces screen glare.
-
-$content-width: 1000px;     // Increases the general width (default is ~800px) 
-$on-palm: 600px;            // Adjusts responsiveness for mobile [cite: 1611]
+$background-color: #fdf5e6; 
+$content-width: 1000px;     
+$on-palm: 600px;            
 
 @import "minima";
 
@@ -13,21 +10,26 @@ $on-palm: 600px;            // Adjusts responsiveness for mobile [cite: 1611]
   display: none !important;
 }
 
+/* Lightbox Styles - Forced with !important */
+.enlarge-overlay {
+  display: none !important;    /* Default state */
+  position: fixed !important;
+  z-index: 9999 !important;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.9) !important;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+/* When the script changes the style to 'flex' */
+.enlarge-overlay[style*="display: flex"] {
+  display: flex !important;
+}
+
 .enlarge-overlay img {
   max-width: 90%;
   max-height: 90%;
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
-}
-
-/* Lightbox Styles - This is what makes it work */
-.enlarge-overlay {
-  display: none;             /* Hidden by default */
-  position: fixed;           /* Stays in place when scrolling */
-  z-index: 9999;             /* Sits on top of everything else */
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: rgba(0,0,0,0.9); /* Dark background */
-  align-items: center;       /* Centers image vertically */
-  justify-content: center;   /* Centers image horizontally */
-  cursor: pointer;
 }
