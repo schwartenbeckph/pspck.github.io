@@ -4,6 +4,8 @@ title: Science
 permalink: /science/
 ---
 
+I am interesting in understanding principles of intelligence both in artificial and biological agents and agentic systems. I have worked on Bayesian and reinforcement learning models of decision-making and planning in agents. More recently, I have investigated the underlying mechanisms of generalisable and compositional reasoning, both in the context of understanding the representations that allow agents to generalise to novel sitations, and in terms of online and offline mechanisms that underlie compositional inference.
+
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 60px;">
   <div style="flex: 40%;">
     <a href="/data/Replay.png" target="_blank">
