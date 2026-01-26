@@ -6,7 +6,9 @@ permalink: /science/
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 60px;">
   <div style="flex: 40%;">
-    <img src="/data/Replay.png" alt="Replay Analysis" style="width: 100%; border-radius: 8px;">
+    <a href="/data/Replay.png" target="_blank">
+        <img src="/data/Replay.png" alt="Rplay" style="width: 100%; border-radius: 8px; cursor: pointer;">
+    </a>
   </div>
   <div style="flex: 60%; text-align: justify;">
     <h3>Online compositional replay</h3>
@@ -18,7 +20,9 @@ permalink: /science/
 
 <div style="display: flex; flex-direction: row-reverse; align-items: center; gap: 40px; margin-bottom: 60px;">
   <div style="flex: 40%;">
-    <img src="/data/MCTSnet.png" alt="Silhouette Algebra Research" style="width: 100%; border-radius: 8px;">
+    <a href="/data/MCTSnet.png" target="_blank">
+        <img src="/data/MCTSnet.png" alt="MCTS" style="width: 100%; border-radius: 8px; cursor: pointer;">
+    </a>
   </div>
   <div style="flex: 60%; text-align: justify;">
     <h3>Adaptive MCTS</h3>
@@ -44,13 +48,13 @@ permalink: /science/
   </div>
 </div>
 
-
-
 <hr style="margin-bottom: 60px; border: 0; border-top: 1px solid #eee;">
 
 <div style="display: flex; flex-direction: row-reverse; align-items: center; gap: 40px; margin-bottom: 60px;">
   <div style="flex: 40%;">
-    <img src="/data/FreeEnergy.png" alt="Free Energy Principle" style="width: 100%; border-radius: 8px;">
+    <a href="/data/FreeEnergy.png" target="_blank">
+        <img src="/data/FreeEnergy.png" alt="Free Energy" style="width: 100%; border-radius: 8px; cursor: pointer;">
+    </a>
   </div>
   <div style="flex: 60%; text-align: justify;">
     <h3>Information-theoretic planning</h3>
@@ -62,7 +66,9 @@ permalink: /science/
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 60px;">
   <div style="flex: 40%;">
-    <img src="/data/MidbrainBeliefs.png" alt="Silhouette Algebra Research" style="width: 100%; border-radius: 8px;">
+    <a href="/data/MidbrainBeliefs.png" target="_blank">
+        <img src="/data/MidbrainBeliefs.png" alt="Midbrain" style="width: 100%; border-radius: 8px; cursor: pointer;">
+    </a>
   </div>
   <div style="flex: 60%; text-align: justify;">
     <h3>Neural basis of Belief Updating</h3>
