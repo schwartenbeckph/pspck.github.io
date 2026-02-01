@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div>
-  <p>I have a background in academic research and AI engineering and aim to translate cutting-edge AI research into useful applications.</p>
+  <p>I'm an Applied Scientist in Amazon's AGI team. I have a background in academic research and AI engineering and aim to translate cutting-edge AI research into useful applications.</p>
   
   <p>In my academic research, I worked at the intersection of AI and biological science, mostly in London and Oxford (UK), but also in Germany. I investigated the nature of flexible, generalisable, and compositional intelligence in algorithms and biological data, focusing on reinforcement learning, Bayesian Inference and pattern analysis methods.</p>
   
@@ -13,6 +13,8 @@ permalink: /about/
 </div>
 
 ## Experience
+
+**Feb 2026 – present**: **Amazon AGI** | *Sr. Applied Scientist, AGI* | Berlin, Germany
 
 **Jan 2023 – Jan 2026**: **Alexander Thamm GmbH** | *Principal AI Engineer & Consultant* | Munich, Germany
 * **Role:** Project lead & Gen/Agentic AI developer building production-grade ML solutions
