@@ -14,7 +14,7 @@ permalink: /
     
     <p>In my academic research, I worked at the intersection of AI and biological science, mostly in London and Oxford (UK), but also in Germany. I investigated the nature of flexible, generalisable, and compositional intelligence in algorithms and biological data, focusing on reinforcement learning, Bayesian Inference and pattern analysis methods.</p>
     
-    <p>As an AI Engineer, I worked as a project lead and developer building Gen AI solutions in production. I also presented this work frequently in talks or blogs with a focus on Agentic AI (e.g. graph-based reasoning in agentic AI or Agentic Retrieval Augmented Generation (RAG)) and reinforcement learning.</p>
+    <p>As an AI Engineer, I worked as a project lead and developer building Gen AI solutions in production. I also presented this work frequently in talks or blogs with a focus on Agentic AI (e.g. <a href="https://www.alexanderthamm.com/de/blog/ai-agents-im-dialog-mit-ihren-daten" target="_blank">graph-based reasoning in agentic AI</a>, <a href="https://www.alexanderthamm.com/en/blog/agentic-rag" target="_blank">Agentic Retrieval Augmented Generation (RAG)</a>, or the <a href="https://www.youtube.com/watch?v=H3IU7j7R7bo" target="_blank">business value of Agentic AI</a>) and <a href="https://www.youtube.com/watch?v=B8MuE6r3pgY" target="_blank">reinforcement learning</a>.</p>
     
     <div style="margin-top: 15px; text-align: left;">
       <a href="https://github.com/schwartenbeckph" target="_blank">
