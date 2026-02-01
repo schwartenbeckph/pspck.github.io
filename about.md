@@ -14,7 +14,7 @@ permalink: /about/
 
 ## Experience
 
-**Feb 2026 – present**: **Amazon AGI** | *Sr. Applied Scientist, AGI* | Berlin, Germany
+**Feb 2026 – present**: **Amazon AGI** \| *Sr. Applied Scientist, AGI* \| Berlin, Germany
 
 **Jan 2023 – Jan 2026**: **Alexander Thamm GmbH** | *Principal AI Engineer & Consultant* | Munich, Germany
 * **Role:** Project lead & Gen/Agentic AI developer building production-grade ML solutions
