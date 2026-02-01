@@ -29,7 +29,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Adaptive MCTS</h3>
     <p>
-      Applying ideas to make MCTS search adaptive via trainable neural networks, we find that a learnable policy network can pick up on this statistical structure to improve performance of compositional inference (work led by Turan Orujlu, (<a href="https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3385488_1" target="_blank">Schwartenbeck et. al., RLDM 2022</a>))
+      Applying ideas to make MCTS search adaptive via trainable neural networks, we find that a learnable policy network can pick up on this statistical structure to improve performance of compositional inference (work led by Turan Orujlu, <a href="https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3385488_1" target="_blank">Schwartenbeck et. al., RLDM 2022</a>)
     </p>
   </div>
 </div>
