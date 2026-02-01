@@ -45,7 +45,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Silhouette Algebra</h3>
     <p>
-      During compositional inference, we can use individual neural representations of certain building blocks in specific relations to predict neural representations of novel composites (<a href="https://www.cell.com/cell/fulltext/S0092-8674(23)01025-5" target="_blank">Schwartenbeck et. al., Cell 2023</a>). This suggests a factorial neural code that underlies generalisable and compositional reasoning when faced with novel tasks, similar to a scene algebra (<a href="https://www.science.org/doi/10.1126/science.aar6170" target="_blank">Eslami et. al., Science 2018</a>).
+      During compositional inference, we can use individual neural representations of certain building blocks in specific relations to predict neural representations of novel composites (<a href="https://www.cell.com/cell/fulltext/S0092-8674(23)01025-5" target="_blank">Schwartenbeck et. al., Cell 2023</a>). This suggests a factorial neural code that underlies generalisable and compositional reasoning when faced with novel tasks, similar to a scene algebra in generative models of vision (<a href="https://www.science.org/doi/10.1126/science.aar6170" target="_blank">Eslami et. al., Science 2018</a>).
     </p>
   </div>
 </div>
@@ -75,7 +75,7 @@ I am interested in understanding the principles of intelligence both in artifici
   <div style="flex: 60%; text-align: justify;">
     <h3>Neural basis of Belief Updating</h3>
     <p>
-      When performing inference in Markov Decision Processes, there is an important distinction between surprising but meaningless events ("information-theoretic surprise") and unexpected events that allows agents to shift their beliefs about hidden states ("Bayesian surprise"). We find that there is a clear neural distinction between those two surprise signals, where (unsigned) Bayesian but not information-theoretic surprise is reflected in dopaminergic activity (commonly associated with signalling signed reward prediction errors) (<a href="https://www.sciencedirect.com/science/article/pii/S1053811915009842?via%3Dihub" target="_blank">Schwartenbeck et. al., NeuroImage 2016</a>).
+      When performing inference in Markov Decision Processes, there is an important distinction between surprising but meaningless events ("information-theoretic surprise") and unexpected events that allow agents to shift their beliefs about hidden states ("Bayesian surprise"). We find that there is a clear neural distinction between those two surprise signals, where (unsigned) Bayesian but not information-theoretic surprise is reflected in dopaminergic activity (commonly associated with signalling (signed) reward prediction errors) (<a href="https://www.sciencedirect.com/science/article/pii/S1053811915009842?via%3Dihub" target="_blank">Schwartenbeck et. al., NeuroImage 2016</a>, <a href="https://www.pnas.org/doi/full/10.1073/pnas.1809298115" target="_blank">Nour, ..., Schwartenbeck et. al., PNAS 2018</a>).
     </p>
   </div>
 </div>
